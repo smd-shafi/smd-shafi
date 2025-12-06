@@ -6,7 +6,7 @@
 - **Mobile:** Java (Android), Flutter  
 - **Backend:** Node.js, Express, J2EE  
 - **Database:** MySQL, SQLite  
-- **Tools:** Git, VS Code, Postman, Figma, Linux basics  
+- **Tools:** Git, VS Code, Postman
 
 ---
 
