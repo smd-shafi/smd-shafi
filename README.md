@@ -1,4 +1,4 @@
-# Syed Mahammed Shafi
+# Mahammed Shafi
 
 Software Engineer passionate about building AI-powered applications and scalable software.
 
