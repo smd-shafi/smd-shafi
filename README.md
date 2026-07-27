@@ -1,15 +1,26 @@
-# **Syed Mahammed Shafi**
+# Syed Mahammed Shafi
 
-## **Tech Stack**
-- **Languages & Frameworks:** Java (JDBC, J2EE), Flutter (Dart), React, Node.js, Express  
-- **Frontend:** HTML, CSS, Tailwind CSS  
-- **Mobile:** Java (Android), Flutter  
-- **Backend:** Node.js, Express, J2EE  
-- **Database:** MySQL, SQLite  
-- **Tools:** Git, VS Code, Postman
+Software Engineer passionate about building AI-powered applications and scalable software.
 
----
+## Tech Stack
 
-## **Contact**
-- **Email:** shafimahammed98@gmail.com  
-- **Location:** Bangalore, India
+**Languages**  
+Java • Dart • JavaScript • C# • Python
+
+**Frontend**  
+React • HTML • CSS • Tailwind CSS
+
+**Mobile**  
+Flutter • Android (Java)
+
+**Backend**  
+Node.js • Express.js • J2EE • JDBC
+
+## Interests
+
+- Game Modding
+
+## Contact
+
+**Email:** shafimahammed98@gmail.com  
+**Location:** Bangalore, India
