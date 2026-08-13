@@ -84,5 +84,3 @@ Game scripting experiments focused on NPC interaction, behavior, navigation, ani
 📧 **Email:** [shafimahammed98@gmail.com]
 
 ---
-
-*To be or not To be is the question*
